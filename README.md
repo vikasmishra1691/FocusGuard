@@ -102,12 +102,4 @@ adb logcat -s FocusGuardAccessibility AccessTimeManager UsageTrackingService
 
 ---
 
-## Next steps / To do
 
-- Add unit/instrumentation tests around usage calculations and `isAppUsageLimitExceeded`.
-- Make blocker UI customizable (difficulty, reward minutes).
-- Add analytics events for challenge success/failure attempts.
-
----
-
-If you'd like, I can also add a short runbook with exact ADB commands, or wire up an in-app debug screen that dumps current usage values for each monitored app. Which would you prefer next?
